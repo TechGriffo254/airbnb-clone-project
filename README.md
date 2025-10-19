@@ -246,5 +246,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Timeline**: October 13-20, 2025  
 **Repository**: [airbnb-clone-project](https://github.com/TechGriffo254/airbnb-clone-project)  
-**Status**: In Development 🚧 
- 
+**Status**: In Development
